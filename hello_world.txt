@@ -1,1 +1,2 @@
 Hello adding text to this 
+I want to add commit message
